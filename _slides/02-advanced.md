@@ -46,9 +46,9 @@ permalink: /slides/advanced/
 
 --
 
-###### Window Workflow
+###### Create Observable
 
-![Create sequences of frames from file names](../../assets/images/concatfile-window.svg)
+![Create sequences of frames from file names](../../assets/images/concatfile-observable.svg)
 
 --
 
